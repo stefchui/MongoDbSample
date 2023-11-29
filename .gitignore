@@ -1,0 +1,5 @@
+.vs
+MongoDbSample.Api/bin
+MongoDbSample.Api/obj
+MongoDbSample.Data/obj
+MongoDbSample.Data/bin
